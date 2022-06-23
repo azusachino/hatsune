@@ -1,0 +1,4 @@
+- Status: #idea
+- Tags: [[PKM]]
+- General Idea
+-
