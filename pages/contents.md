@@ -1,1 +1,14 @@
--
+- Greetings, Idealistic Daydreamer Here
+	- [The Blog](https://azusachino.cn)
+	- [Old Note](https://rin.azusachino.cn)
+	- [Github](https://github.com/azusachino)
+- ## Atomic
+	- #Growth 成长相关议题
+	- #CS 计算机相关议题
+	- #Life 生活相关议题
+	- #Phylosophy 哲学相关议题
+	- #Phychology 心理学相关议题
+	- #Math 数学相关议题
+- ## Collection
+	- #Quotation 摘抄
+	-

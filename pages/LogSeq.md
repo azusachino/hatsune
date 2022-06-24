@@ -1,0 +1,7 @@
+- Tags: #Tool
+- A local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
+- ## Reference
+	- [logseq github](https://github.com/logseq/logseq)
+	- [logseq releases](https://github.com/logseq/logseq/releases/)
+	- [xuanwo note](https://note.xuanwo.io/) The logseq example
+	- [xuanwo note github](https://github.com/Xuanwo/Xuanwo) Take for example
