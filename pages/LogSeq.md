@@ -1,4 +1,4 @@
-- Tags: #Tool
+- #Tool
 - A local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
 - ## Reference
 	- [logseq github](https://github.com/logseq/logseq)

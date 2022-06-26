@@ -1,0 +1,5 @@
+- #CS
+- The Java Native Interface
+-
+- ## Reference
+	- [Oracle Spec Design Doc](https://docs.oracle.com/javase/6/docs/technotes/guides/jni/spec/design.html#wp16785)
