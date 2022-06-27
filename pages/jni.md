@@ -1,5 +1,5 @@
 - #CS
 - The Java Native Interface
--
+	- The JNI is a native programming interface. It allows Java code that runs inside a Java Virtual Machine to interoperate with applications and libraries written in other programming language, such as C, C++ and assembly.
 - ## Reference
-	- [Oracle Spec Design Doc](https://docs.oracle.com/javase/6/docs/technotes/guides/jni/spec/design.html#wp16785)
+	- [Java Native Interface Specification](https://docs.oracle.com/javase/6/docs/technotes/guides/jni/spec/jniTOC.html)
