@@ -1,4 +1,23 @@
 - #Life
+- ## Contents
+	- About 99% of the time, the right time is right now.
+	- No one is as impressed with your possessions as you are.
+	- Don't ever work for someone you don't want to become.
+	- Cultivate 12 people who love you, because they are worth more than 12 million people who like you.
+	- Don't keep making same mistakes; try to make new mistakes.
+	- If you stop listen to a musician or street performer for more than a minute, you owe them a dollar.
+	- Anything you say before the word "but" doesn't count.
+	- When you forgive others, they may not notice, but you will heal. Forgiveness is not something we do for others; it is a gift to ourselves.
+	- Courtesy costs nothing. Lower the toilet seat after use. Let the people in the elevator exit before you enter. Return shopping carts to their designated areas. When you borrow something, return it better shape (filled up, cleaned) than when you got it.
+	- Whenever there is an argument between two sides, find the third side.
+	- Efficiency is high overrated; Goofing off is highly underrated. Regularly scheduled sabbaths, sabbaticals, vacations, breaks, aimless walks and time off are essential for top performance of any kind. The best work ethic requires a good rest ethic.
+	- When you lead, your real job is to create more leaders, not more followers.
+	- Criticize in private, praise in public.
+	- Life lessons will be presented to you in the order they are needed. Everything you need to master the lesson is with you. Once you have truly learned a lesson, you will be presented with the next one. If you are alive, that means you still have lessons to learn.
+	- It is the duty of a student to get everything out of a teacher, and the duty of a teacher to get everything out of a student.
+	- If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game.
+	- Ask funders for money, and they'll give you advice; but ask for advice and they'll give you money.
+	- Productivity is often a distraction. Don't aim for better ways to get through your tasks as quickly as possible, rather aim for better tasks that you never want to stop doing.
 -
 - ## Reference
 	- [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
