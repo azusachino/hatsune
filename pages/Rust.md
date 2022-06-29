@@ -1,0 +1,10 @@
+- #CS
+- A language empowering everyone  to build reliable and efficient software.
+- ## Strengths
+	- Compiled code about same performance as [[C]]/[[C++]], and excellent memory and energy efficiency
+	- Can avoid 70% of all safety issues present in [[C]]/[[C++]], and most memory issues
+	- Strong type system prevent data races, brings 'fearless concurrency'
+	- Seamless [[C]] interop, and dozens of supported platforms. based on [[LLVM]]
+	- Modern tooling: [[cargo]], [[clippy]], [[rustup]]
+- ## Reference
+	- [official site](https://www.rust-lang.org/)
