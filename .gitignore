@@ -2,3 +2,6 @@
 bak/
 metadata.edn
 pages-metadata.edn
+
+# google drive tmp
+.tmp.*/

@@ -18,6 +18,26 @@
 	- If winning becomes too important in a game, change the rules to make it more fun. Changing rules can become the new game.
 	- Ask funders for money, and they'll give you advice; but ask for advice and they'll give you money.
 	- Productivity is often a distraction. Don't aim for better ways to get through your tasks as quickly as possible, rather aim for better tasks that you never want to stop doing.
+	- Immediately pay what you owe to vendors, workers, contractors. They will go out of their way to work with you first next time.
+	- The biggest lie we tell ourselves is "I don't need to write this down because I will remember it".
+	- Your growth as a conscious being is measured by the number of uncomfortable conversations you are willing to have.
+	- Speak confidently as if you are right, but listen carefully as if you are wrong.
+	- Handy measure: the distance between your fingertips of your outstretched arms at shoulder level is your height.
+	- The consistency of your endeavors (exercises, companionship, work) is more important than the quantity. Nothing beats small things done every day, which is way more important than what you do occasionally.
+	- Making art is not selfish; it's for the rest of us. If you don't do your thing, you are cheating us.
+	- Never ask a woman if she is pregnant. Let he tell you if she is.
+	- Three things you need: The ability to not give up something till it works, the ability to give up something that does not work, and the trust in other people to help you distinguish between the two.
+	- When public speaking, pause frequently. Pause before you say something in a new way, pause after you have said something you believe is important, and pause as a relief to let listeners absorb details.
+	- There is no such thing as being "on time". You are either late or you are early. Your choice.
+	- Ask anyone you admire: Their lucky breaks happened on a detour from their main goal. So embrace detours. Life is not a straight line for anyone.
+	- The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you.
+	- You'll get 10x better results by elevating good behavior rather than punishing bad behavior, especially in children and animals.
+	- Spend as much time crafting the subject line of an email as the message itself because the subject line is often the only thing people read.
+	- Don't wait for the storm to pass; dance in the rain.
+	- When checking references for a job applicant, employers may be reluctant or prohibited from saying anything negative, so leave or send a message that says, "Get back to me if you highly recommend this applicant as super great". If they don't reply take that as a negative.
+	- Use a password manager: Safer, easier, better.
+	- Half the skill of being educated is learning what you can ignore.
+	- The advantage of a ridiculously ambitious goal is that it sets the bar very high so even in failure it may be a success measured by the ordinary.
 -
 - ## Reference
 	- [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
