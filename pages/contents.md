@@ -3,12 +3,16 @@
 	- [Old Note](https://rin.azusachino.cn)
 	- [Github](https://github.com/azusachino)
 - ## Atomic
-	- #Growth 成长相关议题
-	- #CS 计算机相关议题
-	- #Life 生活相关议题
-	- #Phylosophy 哲学相关议题
-	- #Phychology 心理学相关议题
-	- #Math 数学相关议题
+	- #Growth 成长议题
+	- #CS 计算机议题
+	- #Life 生活议题
+	- #Physic 物理议题
+	- #Philosophy 哲学议题
+	- #Psychology 心理学议题
+	- #Math 数学议题
+- ## Memorial
+	- #Celebrity 名人名言
+	-
 - ## Collection
 	- #Quotation 摘抄
 	- #Neta 梗

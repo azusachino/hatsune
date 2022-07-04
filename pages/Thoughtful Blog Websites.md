@@ -6,5 +6,5 @@
 		- A Carefully Curated Library of Unusually Good Ideas
 	- [JAMES CLEAR](https://jamesclear.com/)
 		- An Easy & Proven Way to Build Good Habits & Break Bad Ones
-		- The author of <atomic habit>
+		- The author of `atomic habit`
 -
