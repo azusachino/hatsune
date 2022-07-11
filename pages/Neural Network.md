@@ -1,0 +1,5 @@
+- #CS
+-
+- ## References
+	- [Learning to Fly: Let's simulate evolution in Rust!](https://pwy.io/en/posts/learning-to-fly-pt1/)
+	- [But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)

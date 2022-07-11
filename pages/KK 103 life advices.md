@@ -38,6 +38,31 @@
 	- Use a password manager: Safer, easier, better.
 	- Half the skill of being educated is learning what you can ignore.
 	- The advantage of a ridiculously ambitious goal is that it sets the bar very high so even in failure it may be a success measured by the ordinary.
--
+	- A great way to understand yourself is to seriously reflect on everything you find irritating in others,
+	- Keep all your things visible in a hotel room, not in drawers, and all gathered into one spot. That way you'll never leave anything behind. If you need to have something like a charger off to the side, place a couple of other large items next to it, because you are less likely to leave 3 items behind than just one.
+	- Denying or deflecting a compliment is rude. Accept it with thanks, even if you believe it is not deserved.
+	- Always read the plaque next to the monument.
+	- When you have some success, the feeling of being an imposter can be real. Who am I fooling? But when you create things that only you --- with your unique talents and experience --- can do, then you are absolutely not an imposter. You are the ordained. It is your duty to work on things that only you can do.
+	- What you do on your bad days matters more than what you do on your good days.
+	- Make stuff that is good for people to have.
+	- When you open paint, even a tiny bit, it will always find its way to your clothes no matter how careful you are. Dress accordingly.
+	- To keep young kids behaving on a car road trip, have a bag of their favorite candy and throw a piece out the window each time they misbehave.
+	- You cannot get smart people to work extremely hard just for money.
+	- When you don't know how much to pay someone for a particular task, ask them "what would be fair" and their answer usually is.
+	- 90% of everything is crap. If you think you don't like opera, romance novel, TikTok, country music, vegan food, NFTs, keep trying to see if you can find the 10% that is not crap.
+	- You will be judged on how well you treat those who can do nothing for you.
+	- We tend to overestimate what we can do in a day, and underestimate what we can achieve in a decade. Miraculous things can be accomplished if you give it ten years. A long game will compound small gains to overcome even big mistakes.
+	- Thank a teacher who changed your life.
+	- You can't reason someone out of a notion that they didn't reason themselves into.
+	- Your best job will be one that you were unqualified for because it stretches you. In fact only apply to jobs you are unqualified for.
+	- Buy used books. They have the same words as the new ones. Also libraries.
+	- You can be whatever you want, so be the person who ends meetings early.
+	- A wise man said, "Before you speak, let your words pass through three gates. At the first gate, ask yourself, 'Is it true?', at the second gate ask, 'Is it necessary?', at the third gate ask, 'Is it kind?'".
+	- Take the stairs.
+	- What you actually pay for something is at least twice the listed price because of the energy, time, money needed to set it up, learn, maintain, repair and dispose of at the end. Not all prices appear on labels. Actual costs are 2x listed prices.
+	- When you arrive at your room in a hotel, locate the emergency exits. It only takes a minute.
+	- The only productive way to answer "what should I do now?" is to first tackle the question of "who should I become?".
+	- Average returns sustained over an above-average period of time yield extraordinary results. Buy and hold.
+	- It's thrilling to be extremely polite to rude strangers.
 - ## Reference
 	- [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)

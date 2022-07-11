@@ -4,6 +4,7 @@
 	- [Github](https://github.com/azusachino)
 - ## Atomic
 	- #Growth 成长议题
+	- #Thought 个人思考
 	- #CS 计算机议题
 	- #Life 生活议题
 	- #Physic 物理议题
@@ -12,9 +13,8 @@
 	- #Math 数学议题
 - ## Memorial
 	- #Celebrity 名人名言
-	-
 - ## Collection
 	- #Quotation 摘抄
 	- #Neta 梗
 - ## Links
-	- #Blog
+	- #Blog Collection
