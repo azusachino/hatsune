@@ -5,9 +5,9 @@
 - $Gravity + Standard Model = The Theory of Everything$
 - ## Related Topics
 	- Elementary Particles
-	- [[Quantum Physics]]
+	- [[Quantum-Physics]]
 	- Heisenberg Uncertainty Principle
 - ## References
 	- [String Theory Explained - What is The True Nature of Reality?](https://www.youtube.com/watch?v=Da-2h2B4faU)
-		- This video actually didn't `explained` what is String Theory, but simply mentioned the context about why there is such theory come out. In [[Quantum Physics]] world, general relational theory cannot explain it all, people need new theories to explain new observed-situations, and String Theory is one of them.
+		- This video actually didn't `explained` what is String Theory, but simply mentioned the context about why there is such theory come out. In [[Quantum-Physics]] world, general relational theory cannot explain it all, people need new theories to explain new observed-situations, and String Theory is one of them.
 		- Still no prediction of string theory has been proven in an experiment

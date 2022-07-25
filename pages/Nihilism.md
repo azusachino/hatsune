@@ -1,0 +1,16 @@
+- #Philosophy
+- 虚无主义
+- ## WikiPedia
+	- Rejects generally accepted or fundamental aspects of human existence
+		- objective truth
+		- knowledge
+		- morality
+		- values
+		- meaning
+	- Different nihilist positions hold variously that human values are baseless
+		- life is meaningless
+		- knowledge is impossible
+		- some set of entities do not exist or are meaningless or pointless
+	-
+- ## References
+	- [Wiki](https://en.wikipedia.org/wiki/Nihilism)

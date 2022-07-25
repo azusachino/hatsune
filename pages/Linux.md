@@ -36,5 +36,12 @@
 			  net.ipv4.tcp_max_tw_buckets = 32768
 			  # sysctl -p
 			  ```
+	- Scheduler
+		- Resource sharing is the key factor
+		- Time Accounting
+			- The fundamental rule in the `Completely Fair Scheduler` is: _the task that ran less, will run next!_
 - ## Reference
-	- [Linux 网络性能的 15 个优化建议！](https://mp.weixin.qq.com/s/GNG263EaQcUVmBff5Mzxnw)
+	- [Linux 网络性能的 15 个优化建议](https://mp.weixin.qq.com/s/GNG263EaQcUVmBff5Mzxnw)
+	- [A journey into the Linux scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
+		- [https://www.kernel.org/doc/html/v5.17/scheduler/index.html](https://www.kernel.org/doc/html/v5.17/scheduler/index.html)
+		- [https://elixir.bootlin.com/linux/v5.17.9/source](https://elixir.bootlin.com/linux/v5.17.9/source)

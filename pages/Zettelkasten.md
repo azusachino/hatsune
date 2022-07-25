@@ -7,7 +7,7 @@
 - ## Complete Zettel
 	- ![.](https://zettelkasten.de/introduction/complete-zettel.png)
 - ## Local Reference
-	- [[Personal Knowledge Management]]
+	- [[Personal-Knowledge-Management]]
 - ## Reference
 	- [The Introduction](https://zettelkasten.de/introduction/)
 	- [WikiPedia Page](https://en.wikipedia.org/wiki/Zettelkasten)

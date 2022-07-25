@@ -1,4 +1,4 @@
-- #Celebrity
+- #Celebrity #Philosophy
 - **The less promise and potency in the self, the more imperative is the need for pride. The core of pride is self-rejection**
 - ## Contents
 	- ### Will Power 意志力
@@ -15,6 +15,10 @@
 		- Recognizing the influence of my subconscious mind over my power of will, I shall take care to submit to it a clear and definite picture of my `CLEAR PURPOSE` in life and all minor purposes leading to my major purpose, and I shall keep this picture `CONSTANTLY BEFORE` my subconscious mind by `REPEATING IT DAILY`.
 	- ### Conscience 良心
 		- Recognizing that my emotions often err in their over-enthusiasm and my faculty of reason often is without the warmth of feeling that is necessary to enable me to combine justice with mercy in my judgements, I will encourage my conscience to guide me as to what is right & what is wrong, but I will never set aside the verdicts it renders, no matter what may be the cost of carrying them out.
+	- Self-Esteem
+		- We can see through others only when we see through ourselves.
+		- > Pride is a sense of worth derived from something that is not part of us, while self-esteem derives from the potentialities and achievements of self. We are proud when we identify ourselves with an imaginary self, a leader, a holy cause, a collective body of possessions. There is fear and intolerance in pride; it is insensitive and uncompromising. The less promise and potency in the self, the more imperative is the need for pride. The core of pride is self-rejection.
+		- 我们的「自豪」可能来自「自我抗拒」，是环境想要我们成为的样子，而不是处于我们自己的内心感受。
 - ## Quotation
 	- You will never get any more out of life than you expect
 	  Keep your mind on the things you want and off those you don't
