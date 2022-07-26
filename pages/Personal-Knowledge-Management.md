@@ -5,5 +5,11 @@
 	- Information
 	- Social
 	- Learning
+- ## PDF
+	- ![Personal Knowledge Management](../assets/PersonalKnowledgePKM_1658307224807_0.pdf)
+		- Definition
+			- ((62de8d45-8025-4597-b90f-d97fadd6b26e))
+			- ((62de8d55-022d-4d4e-a3e3-198479f116c3))
+		-
 - ## Reference
 	- [WikiPedia Page](https://en.wikipedia.org/wiki/Personal_knowledge_management)

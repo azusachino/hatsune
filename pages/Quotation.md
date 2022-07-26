@@ -1,3 +1,4 @@
+- #Collection
 - A Set of Quotations
 - ## Contents
 	- The more personal you are willing to be and the more intimate you are willing to be about the details of your own life, the more universal you are.

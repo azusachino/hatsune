@@ -2,7 +2,7 @@
 	- [The Blog](https://azusachino.cn)
 	- [Old Note](https://rin.azusachino.cn)
 	- [Github](https://github.com/azusachino)
-- ## Atomic
+- #Atomic Zettel
 	- #Growth 成长议题
 	- #Thought 个人思考
 	- #CS 计算机议题
@@ -11,10 +11,12 @@
 	- #Philosophy 哲学议题
 	- #Psychology 心理学议题
 	- #Math 数学议题
-- ## Memorial
+	- #Theory 理论
+- #Memorial 值得记忆的内容
 	- #Celebrity 名人名言
-- ## Collection
+- #Collection 收集
 	- #Quotation 摘抄
 	- #Neta 梗
-- ## Links
+- #Link 链接
 	- #Blog Collection
+	- #Resource Internet Gallery

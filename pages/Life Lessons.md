@@ -14,6 +14,5 @@
 	- Physical appearance matters. How you dress matters. It's not everything, but it's more than zero.
 	- Most of what we are taught, told, believe, spew will more than likely not withstand the test of time.
 	- Don't make the same mistake.
-	-
 - ## References
 	- [What are top lessons you learned the hard way between age 20 to 30?](https://news.ycombinator.com/item?id=27717304)
